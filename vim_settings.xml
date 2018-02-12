@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/GIT/checklist/gateway/Dockerfile" timestamp="1518209076617">
         <mark key="[" line="13" column="44" />
       </file>
+      <file name="$USER_HOME$/GIT/checklist/api/src/main/java/pl/psfinteco/zsfd/checklist/domain/Checklist.java" timestamp="1518462098436">
+        <mark key="[" line="27" column="6" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
